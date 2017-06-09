@@ -1,7 +1,7 @@
 # 5 Day Weather Forecaster
-Educational project for learning React and Redux with Stephen Grider's Udemy course Modern React and Redux.
+Educational project for learning React and Redux from Stephen Grider's Udemy course Modern React with Redux.
 
-To get started, download or clone and enter the following:
+To get started, download or clone and enter:
 ```
 > npm install
 > npm start
