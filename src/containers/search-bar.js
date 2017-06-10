@@ -26,7 +26,7 @@ export class SearchBar extends Component {
         return (
             <form className="input-group" onSubmit={this.onFormSubmit.bind(this)}>
                 <input 
-                    placeholder="Search for a city" 
+                    placeholder="Search for a US city" 
                     className="form-control" 
                     value={this.state.term} 
                     onChange={this.onInputChange.bind(this)} />

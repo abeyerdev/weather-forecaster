@@ -11,6 +11,6 @@ export function fetchWeather(city) {
 
     return {
         type: FETCH_WEATHER,
-        payload: request // returning Promise as payload
+        payload: request // returning Promise as payload here, not response yet!
     };
 };
