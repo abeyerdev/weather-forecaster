@@ -6,4 +6,4 @@ To get started, download or clone and enter:
 > npm install
 > npm start
 ```
-Then browse to localhost:8080.
+Then navigate to `localhost:8080`.
